@@ -5,3 +5,4 @@ Course Link : https://JavaScript30.com
 
 Day 1 : Javascript Drum Kit - Completed
 Day 2 : Javascript Clock - Completed
+Day 3 : Updating CSS Variables using JS
